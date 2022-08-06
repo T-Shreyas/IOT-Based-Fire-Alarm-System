@@ -6,12 +6,12 @@
 #include <BlynkSimpleEsp8266.h>
 
 // Initialize Telegram BOT
-#define BOTtoken "5055149989:AAGggOSB0FwWcM83b8JwCt1LzyIG4Uicv2Q"  // your Bot Token (Get from Botfather)
+#define BOTtoken "*****************************************************"  // your Bot Token (Get from Botfather)
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
 // message you
-#define CHAT_ID "626986451"
+#define CHAT_ID "XXXXXXXXX"
 
 int led = 13; // Connected to D7 pin of NodeMCU
 int flame_sensor = 12; //Connected to D6 pin of NodeMCU
